@@ -1,3 +1,3 @@
 ### Hola mi nombre es Jose David 👋
 
-me encanta JavaScript 
+Me encanta JavaScript 
