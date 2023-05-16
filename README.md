@@ -9,5 +9,8 @@ Soy un Full-Stack Web Developer enfocado en el stack MERN. Aqui podrás ver los 
     </a>
   </div>
   
+  ## Pruebas tecnicas 
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rivasss24&repo=blog-ui&show_owner=true)](https://github.com/rivasss4/blog-ui)
 
 
