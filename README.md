@@ -11,7 +11,7 @@ Soy un Full-Stack Web Developer enfocado en el stack MERN. Aqui podrás ver los 
   
 ### Pruebas tecnicas
 
-***- Full-stack Web Developer (React / NodeJS)***
+***- Full-stack Web Developer (React/NodeJS)***
 <br/>
 
 Realizar una app web tipo Blog que permita registrar usuarios almacenarlos en una base de datos SQL y que lo mismos puedan logearse, publicar nuevos post y visualizarlos.
