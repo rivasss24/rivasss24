@@ -1,7 +1,8 @@
 ### Hola, mi nombre es Jose David 👋.
 
-Soy un Full-Stack Web Developer enfocado en el stack MERN. Aqui podrás ver los proyectos que me he propuesto para aprender cada dia mas acerca de las distintas tecnologias relacionadas al ecosistema de JavaScript, sus diferentes frameworks y librerias, especificamente Express JS y React... Tambien me gusta Go  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg">
+Soy un Full-Stack Web Developer enfocado en el stack MERN. Aqui podrás ver los proyectos que me he propuesto para aprender cada dia mas acerca de las distintas tecnologias relacionadas al ecosistema de JavaScript, sus diferentes frameworks y librerias, especificamente Express JS y React... Aunque en este momento me encuentro utilizando Angular en mi trabajo <img style="width: 40px; height: 40px; " src="https://angular.io/assets/images/logos/angular/angular.svg" >
 
+<!-- Tambien me gusta Go  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg">-->
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/josedavidrivas/">
